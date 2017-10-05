@@ -1,0 +1,22 @@
+{
+    "name": "tomasz-rup/sf-browser-fingerprint-plugin",
+    "type": "symfony1-plugin",
+    "description": "symfony 1.x plugin to add jquery.browser-fingerprint",
+    "keywords": ["symfony1", "fingerprint"],
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Tomasz Jakub Rup",
+            "email": "tomasz.rup@gmail.com",
+            "role": "Creator"
+        }
+    ],
+    "support": {
+      "issues": "https://github.com/tomi77/sfBrowserFingerprintPlugin/issues",
+      "source": "https://github.com/tomi77/sfBrowserFingerprintPlugin"
+    },
+    "require": {
+        "symfony/symfony1": "*",
+        "composer/installers": "*"
+    }
+}
